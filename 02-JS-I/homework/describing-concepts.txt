@@ -1,0 +1,44 @@
+* Variables
+Una variable es como un cajoncito de una cómoda en el cual tú decides qué quieres guardar y
+le pones un nombre.
+Si la cómoda representa la memoria de la computadora, entonces una variable sería representada 
+por el hecho de abrir un cajón y meter algo en él y ponerle una etiqueta, por ejemplo 'joyas'.
+
+ * Strings
+Las variable pueden ser de diferentes tipos, dependiendo de qué represeten, así como en la cómoda
+mencionada en el ejemplo anterior guardábamos joyas en el cajón (variable) 'joyas', lo conveniente
+sería solamente guardar joyas allí, ese sería el TIPO del cajón.
+Si en otro cajón vamos a guardar dinero, encontramos que existe un TIPO distinto.
+De forma parecida, una variable es de un TIPO: numérica, booleana, string u otro.
+El TIPO String representa un hilo (como su traducción del inglés lo indica) de caracteres
+alfanuméricos, así podemos representar una oración o un texto. Esta explicación misma ES 
+UN STRING!
+
+ * Funciones (argumentos, `return`)
+Una función es un pedazo de código que escribimos para realizar una tarea específica.
+Esta tarea puede ser tan simple como sumar dos números, imprimir algo en la consola o
+tan compleja como nuestras capacidades de código nos lo permitan.
+Por ejemplo, supongamos que queremos resolver una suma de dos valores. Podemos escribir 
+una FUNCIÓN que realice este trabajo sin importar cuales sean estos valores. En términos
+de verbales debemos: recibir los dos números, sumarlos y reportar el resultado.
+Los números a sumar serán los ARGUMENTOS
+La realización de la suma será el contenido del bloque de código de la función.
+La sintaxis RETURN nos ayudará a realizar el paso final, reportar el resultado.
+
+ * Declaraciones `if`
+Constantemente ejecutamos condiciones en la vida diara. A todos nos ha dicho nuestro padre,
+madre o guardián "cuando llegues a la casa de tu amigo, me avisas". Algo tan sencillo
+representa un IF en la vida diara. Cumplir una condición (llegar a la casa de tu amigo),
+genera un resulta (avisar a casa). IF es una estructura de control de código que hace
+exactamente lo mismo: busca evaluar una condición como cierta, para ejecutar un trozo
+de código (el bloque consecuente). 
+
+ * Valores booleanos (`true`, `false`)
+ Recuerdas los exámenes del liceo? En ellos seguramente encontraste una pregunta similar a:
+ "Cuando las plantas realizan la fotosíntesis transforman el oxígeno en gas neón: CIERTO o FALSO"
+ En este ejemplo, el maestro o maestra intenta que nosotros evaluemos la veracidad de un
+ enunciado (qué tipo de gases consume y genera la fotosíntesis). De forma muy similar en el
+ cómputo podemos evaluar todo tipo de condiciones, numéricas o inclusive verbales. 
+ Una condición evaluada como cierta regresa el valor TRUE y una evaluada como false el valor
+ FALSE.
+
