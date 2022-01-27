@@ -1,0 +1,28 @@
+FOR
+Recuerdas cuando eras un niño y durante la comida de la tarde solamente querías llegar al postre?
+Tu padre/madre/tutor seguramente decía: 'no hay postre hasta que te acabes tus verduras'
+'FOR' es algo muy similar.
+Utlilizamos esta palabra para indicar a un ordenador que queremos que ejecute un bloque
+de código hasta que una condición predeterminada deje de ser ver. Mientras la condición se
+mantenga cierta el bloque seguirá ejecutándose (comer verduras), cuando la condición se cumpla
+(se acabaron las verduras), se termina el FOR (llega el postre)
+
+&&
+Si viste SpiderMan No Way Home sabes que el hechizo del Dr Strange para lograr que todos
+olvidaran que SpiderMan es Peter Parker falló porque Peter continuaba añadiéndole excepciones: 
+comenzó con 'Quiero que todos olviden que soy SpiderMan!', seguido añadió 'Menos
+mis amigos', después anexó otra excepción 'Ni mi mamá'. El hechizo sel volvió inestable
+y todos los que sabían que SpierMan era Peter terminaron siendo jalados a nuestro universo.
+Bueno, si no viste el filme creo que resumí bien la idea. AND, '&&' es una forma de añadir una
+condicion sobre otra. Para que sean evaluadas como ciertas AMBAS o TODAS las
+condiciones concatenadas con AND deberán ser ciertas.
+
+||
+En el caso de OR, tenemos dos o más condiciones para ser evualuadas en conjunto. La evaluación
+final será favorable si tan solo una de ellas resultara cierta. 
+
+!
+NOT representa la negación, el negativo. Como en la memes que se ven todos negros, o Superman
+cuando viste de negro y en lugar de ser heroe es villano. El de color azul y capa roja es
+Superman, el de negro es !Superman. Al evualuar una condición usamos este caracter para negar
+cualquier comparación. 
