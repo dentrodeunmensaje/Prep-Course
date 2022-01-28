@@ -1,0 +1,7 @@
+ARRAYS
+
+Un array es como el juego de la escuela primaria donde todos los niños del salón se tomaban
+de las manos para hacer una serpiente. Esa serpiente, era un ARRAY de niños. El primero de
+ellos sería el niño 0 (nosotros comenzamos a contar en el 1, pero los arrays comienzan a contar 
+desde el 0), si seguimos avanzando por la serpiente encontraremos al niño 1,2,3,4,5 ...  
+hasta llegar al niño final, al que llamaremos el niño.length.
