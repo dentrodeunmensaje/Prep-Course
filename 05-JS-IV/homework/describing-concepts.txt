@@ -1,0 +1,33 @@
+* Objetos
+Un objeto es una forma de definir un concepto de una manera similar a la realidad.
+Para definir a mi esposa yo podría crear un objeto consu nombre.
+const selene = {};
+Ahora la constante selene está lista para que yo la comience a descripbir
+
+* Propiedades
+Un objeto es como tratar de describir a una persona. Mi esposa mide 1.60 y tiene su piel
+morena, su edad es 36 años y se dedica a la administracion de restaurantes, tiene nombre,
+apellido, orientacion sexual, tipo de sangre, etc.
+Puedo seguir mencionanun montón de palabras clave que describen una parte de ella, todas ellas
+representan PROPIEDADES del objeto Selene.
+const selene = {estatura: 1.6, piel: morena, edad: 36};
+
+* Métodos
+Si las propiedades son las cosas que describen a mi esposa, los métodos son las cosas que
+podemos hacer con estas. Por ejemplo, una vez al año mi esposa cumple años y debemos sumar
+uno a su edad, así que podemos crear el método cumpleanos;
+selene ={
+    cumpleanos(){
+        var nuevaEdad = this.edad+1;
+        this.edad = nuevaEdad;
+    }
+};
+* Bucle `for…in`
+Si no supiéramos cuáles son las propiedad del objeto selene, podríamos pasar por todas ellas
+gracias a este bucle. Con la sintaxis let e in podemos verlas todas o acceder a alguna en
+específico.
+
+* Notación de puntos vs notación de corchetes
+Para acceder a una propiedad podemos usar distintos tipos de notación, formas diferentes 
+de decir lo mismo:
+selene.edad es lo mismo que selene['edad']
