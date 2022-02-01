@@ -1,0 +1,11 @@
+* `prototype`
+Con esta sintaxis podemos acceder a los métodos propios de una clase específica, copiarlos 
+o alterarlos. Por ejemplo, todos los humanos: nacen y mueren. Pero si quisieramos añadir
+otro comportamiento necesitariamos acceder al prototype para hacerlo
+humano.prototype.dormir = function (){//código para dormir}
+
+* _Constructors_ (de Clases)
+Un constructor es la plantilla existente para representar a una instancia de una clase específica.
+Para nuestra clase humano, el constructor contiene todas las especificaciones de qué
+necesita tener un humano, sin haberlas definido aún. Tiene todos los campos necesarios, mas
+no representa a ningún humano específico.
