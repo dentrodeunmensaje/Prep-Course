@@ -1,0 +1,8 @@
+
+* Funciones Callback
+
+Las funciones callback son como cuando tus abuelos o tutores te mandaban con mensajes entre ellos
+porque no querían ir a hablarse en persona. Tenías que ir con un mensaje, tomar más información,
+y probablemente algunas instrucciones, ejecutarlas del otro lado, y regresar una ves más.
+El niño o joven al que se le confían la valiosa información y las instrucciones: el se llama
+Callback, cb() para los amigos.
